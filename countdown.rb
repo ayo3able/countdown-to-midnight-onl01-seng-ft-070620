@@ -7,5 +7,4 @@ def countdown(number)
   end
   # puts "HAPPY NEW YEAR!"
   "HAPPY NEW YEAR!"
-  sleep 5
 end
