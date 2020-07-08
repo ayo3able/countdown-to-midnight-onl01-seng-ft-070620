@@ -2,8 +2,8 @@
 seconds = 10
 
 def countdown(seconds)
-while 
-  puts "#{number} SECONDS"
+while seconds <10
+  
   y -= 1
   sleep 1
 end
