@@ -1,9 +1,8 @@
 #write your code here
-x =  1
-y =  10
+seconds = 10
 
-def countdown(x, y)
-while x,y
+def countdown(seconds)
+while 
   puts "#{number} SECONDS"
   y -= 1
   sleep 1
