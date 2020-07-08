@@ -7,6 +7,4 @@ while seconds <10
   seconds -= 1
   sleep 1
 end
-
-
 end
